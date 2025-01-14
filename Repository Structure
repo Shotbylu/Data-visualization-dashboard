@@ -1,0 +1,5 @@
+dashboard-project/
+│
+├── index.html            # Main HTML file for the dashboard
+├── README.md              # Documentation for the project
+└── LICENSE                
